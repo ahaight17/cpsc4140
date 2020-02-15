@@ -2,8 +2,6 @@
 
 ## Don Norman's Theory
 
-***
-
 ### Seven Stages of Action
 1. Forming the goal
     - Pretty self explanatory
