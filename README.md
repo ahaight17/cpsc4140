@@ -2,4 +2,4 @@
 
 ### Don Norman's Theory
 #### Seven Stages of Action
-!(sevenactions.jpg)
+![alt text](sevenactions.jpg "Wikipedia Seven Stages of Action")
