@@ -4,7 +4,7 @@
 
 ***
 
-#### Seven Stages of Action
+### Seven Stages of Action
 1. Forming the goal
     - Pretty self explanatory
 1. Forming the itention
@@ -22,7 +22,7 @@
 
 ***
 
-#### The Gulf of Execution
+### The Gulf of Execution
 The difference between intentions and allowable actions is the Gulf of Execution
 
 *Ex. printing a document*
@@ -46,7 +46,7 @@ The Gulf of Evaluation reflects the amount of effort that the person must exert 
 
 ***
 
-#### Six Principles of Deisgn
+### Six Principles of Deisgn
 1. **Visibility**
     - Users need to know their options and how to access them
 1. **Feedback**
