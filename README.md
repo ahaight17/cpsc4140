@@ -90,7 +90,17 @@ Most usability problems happen because of a mismatch of system and use images.
 ***
 
 ### Mental Models
-Don Norman reasons that irrespective of concept design, users will always have their own unique mental models rooted in personal experiences and worldviews. Mental models are based on beliefs, not facts.
-- Always **in flux**. 
-- Many usability problems stem from users having mixed-up mental models that **confuse different parts of the system.**
+Don Norman reasons that irrespective of concept design, users will always have their own unique mental models rooted in personal experiences and worldviews. Mental models are based on beliefs, not facts, and **always in flux**. 
+- **Mixed up mental models**
+    - Many usability problems stem from users having mixed-up mental models that **confuse different parts of the system**
+-  **Mental model inertia**
+    - People tend to stick the familiar. New interaction styles can be difficult to adapt to and should only be implemented when they are **vastly** superior to old systems.
+- **Acting on mental models**
+    - When users erroneously interact with your system, it is often due to a discrepency in their mental model with the actual implementation. A designer has two options in this case:
+        - Make the system conform to the user's mental model
+        - Change the users mental model by designing a better UI
+
+***
+
+
 
