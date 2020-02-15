@@ -1,4 +1,4 @@
-# CPSC 4140
+# CPSC 4140 Human Computer Interaction
 
 ## Don Norman's Theory
 
@@ -31,7 +31,7 @@ The difference between intentions and allowable actions is the Gulf of Execution
 - **Failure to execute the action**
     - Some other dialogue is open and preventing me from clicking buttons
 
-####Gulf of Evaluation
+### Gulf of Evaluation
 The Gulf of Evaluation reflects the amount of effort that the person must exert to interpret the physical state of the system and to determine how well the expectations and intentions have been met.
 
 *Ex. the default printer is wrong*
@@ -57,3 +57,40 @@ The Gulf of Evaluation reflects the amount of effort that the person must exert 
     - The limits to an interaction or interface. *Ex. screen size, an image peeking from the bottom of the page inviting users to scroll down*
 1. **Consistency**
     - The same action needs to cause the same reaction. Every time. 
+
+***
+
+### Three Levels of Design
+1. **Visceral Design**
+ - Concerns itself with appearances. Refers to the perceivable aspects of design and how they make the user act/feel. Essentially the concept "branding".
+     - Much of product design is now focused on visceral design
+2. **Behavioral Design**
+- Has to do with the pleasure and effectiveness of use. Can be referred to as usability.
+    - Interested in how quickly and accurately users can achieve their goals
+3. **Reflective Design**
+- Refers to the rationalization and intellectualization of a product.
+    - Can I tell a story about it? Do I identify with it? The highest level of emotional design.
+
+***
+
+### Images
+Designers and users alike use images to reason about functions/uses of the system
+- **Designer Image**
+    - How the designer thinks the system should work
+- **System Image**
+    - How the system actually works
+- **Use Image**
+    - How the user thinks the system works
+
+Most usability problems happen because of a mismatch of system and use images.
+**Why does this happen?**
+- The designer creates the UI based on the system image
+- The user has to infer the system image from the UI
+
+***
+
+### Mental Models
+Don Norman reasons that irrespective of concept design, users will always have their own unique mental models rooted in personal experiences and worldviews. Mental models are based on beliefs, not facts.
+- Always **in flux**. 
+- Many usability problems stem from users having mixed-up mental models that **confuse different parts of the system.**
+
