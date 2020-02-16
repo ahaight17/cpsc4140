@@ -3,20 +3,20 @@
 ## Don Norman's Theory
 
 ### Seven Stages of Action
-1. Forming the goal
+1. **Forming the goal**
     - Pretty self explanatory
-1. Forming the itention
-    - **Plan** to turn my goal into an intention to act
-1. Specifying an action
-    - **Specify** an action sequence
-1. Executing an action
-    - **Perform** this sequence
-1. Perceiving the state of the world
-    - **Perceive** the change
-1. Interpreting the state of the world
-    - **Interpret** the change
-1. Evalutating the outcome
-    - **Evaluate** the outcome
+1. **Forming the itention**
+    - Plan to turn my goal into an intention to act
+1. **Specifying an action**
+    - Specify an action sequence
+1. **Executing an action**
+    - Perform this sequence
+1. **Perceiving the state of the world**
+    - Perceive the change
+1. **Interpreting the state of the world**
+    - Interpret the change
+1. **Evalutating the outcome**
+    - Evaluate the outcome
 
 ***
 
@@ -62,14 +62,14 @@ The Gulf of Evaluation reflects the amount of effort that the person must exert 
 
 ### Three Levels of Design
 1. **Visceral Design**
- - Concerns itself with appearances. Refers to the perceivable aspects of design and how they make the user act/feel. Essentially the concept "branding".
-     - Much of product design is now focused on visceral design
+    - Concerns itself with appearances. Refers to the perceivable aspects of design and how they make the user act/feel. Essentially the concept "branding".
+        - Much of product design is now focused on visceral design
 2. **Behavioral Design**
-- Has to do with the pleasure and effectiveness of use. Can be referred to as usability.
-    - Interested in how quickly and accurately users can achieve their goals
+    - Has to do with the pleasure and effectiveness of use. Can be referred to as usability.
+        - Interested in how quickly and accurately users can achieve their goals
 3. **Reflective Design**
-- Refers to the rationalization and intellectualization of a product.
-    - Can I tell a story about it? Do I identify with it? The highest level of emotional design.
+    - Refers to the rationalization and intellectualization of a product.
+        - Can I tell a story about it? Do I identify with it? The highest level of emotional design.
 
 ***
 
