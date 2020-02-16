@@ -82,7 +82,7 @@ Designers and users alike use images to reason about functions/uses of the syste
 - **Use Image**
     - How the user thinks the system works
 
-Most usability problems happen because of a mismatch of system and use images.
+Most usability problems happen because of a mismatch of system and use images. 
 **Why does this happen?**
 - The designer creates the UI based on the system image
 - The user has to infer the system image from the UI
