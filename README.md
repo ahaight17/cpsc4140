@@ -212,5 +212,49 @@ Refers to the ability of an object or a product to communicate its **function**
 - **Similar objects or functions should be assigned similar icons**
 - **Textual labels make it easier for beginners**
 
+***
 
+## Design Principles for Forms
+
+### Label Positioning
+- **Position form labels where you see fit**
+    - Make them close (but not too close)
+    - Use visual connectors if the space between label and form is large
+
+### Input Format
+- **Allow flexible input format**
+- **Communicate when a special format is required**
+    - Units (like $, ft., mph) and separators (like -, /) should be part of the label
+    - Give examples like “mm/dd/yy”
+- **Mark required fields**
+- **Split long alphanumeric codes in groups of 2-4 characters**
+    - Allow users to easily advance with Tab key or auto-advance
+
+***
+## Special Considerations for Web
+- **Use linear or hierarchical link structure**
+- **Make use of "breadcrumbs" a.k.a. showing users how they got where they are**
+- **Don't break the back button**
+- **Links should indicate they are links:**
+    - Underlined
+    - Color
+    - Buttons
+    - Items in columns (menu)
+    - Textual hints
+    - Mouse rollover
+    - Changing cursor icon
+    - Semantics
+- **Links should indicate their action**
+- **Make use of site maps and global site search**
+- **Design webapps like standalone programs**
+
+***
+
+## Special Considerations for Mobile Design
+- **Infinite scrolling**
+- **Enable zooming**
+- **Make use of gestures**
+- **Have consistent placement of familiar elements**
+- **Hide information/controls in menus**
+- **Make use of targeted information**
 
