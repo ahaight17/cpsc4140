@@ -1,6 +1,6 @@
 # CPSC 4140 Human Computer Interaction
 
-## Don Norman's Theory
+## Don Norman's Theories
 
 ### Seven Stages of Action
 1. **Forming the goal**
@@ -147,4 +147,70 @@ Refers to the ability of an object or a product to communicate its **function**
     - Give the user all the resources they need to use the product as intended
 
 ***
+
+## Design Principles for Screens
+
+### Layout
+- **The screen should contain at least 65% white space, ideally 80%**
+- **White space should be evenly distributed across the upper and lower halves of the page**
+- **Screen layout should be more or less vertically symmetrical**
+
+### Elements
+- **Avoid unnecessary colors and embellishments**
+- **Add emphasis only when necessary**
+
+### Navigation
+- **Should pass the "trunk test":** 
+    - If a user dropped somewhere random on the website, will they know where they are?
+- **Users should always know:**
+    - Which site they're on
+    - Where on the site they are
+    - How to get back to the previous page and where can they go from here
+    - How they can get home
+    - How they can get help
+- **Create clear visual hierarchy to reflect the task, not the program**
+- **Visually group subtasks**
+- **Keep recurring elements in consistent locations**
+
+***
+
+## Design Principles for Menus
+
+### Types
+- **Textual, graphical or combination**
+- **Linear or spatial**
+- **Static, pull-down, pop-up**
+- **Single or multiple choice**
+- **Isolated or hierarchical**
+- **Pie menus**
+
+### Elements
+- **Show items that can be selected**
+- **Show items that currently cannot be selected (deemphasized**
+- **Show items that have already been selected**
+- **Show the presence of submenus**
+
+### Naming
+- **Should be short and meaningful**
+- **Must be clearly different from other options**
+- **The most significant word should come first in multi-word menu names**
+- **Be consistent**
+
+### Length/Order
+- **Menus should be kept between 5 and 8 items**
+- **Longer menus should:**
+    - Group items by task
+    - Have a natural sequence
+- **Should not be nested more than 2 or 3 levels**
+- **Frequently used items should go at the top**
+- **Conflicting or "dangerous" items should not be grouped together**
+
+### Icons
+- **Icons should be recognizable, distinguishable, and pleasing**
+- **Form, color, and size and much more important than detail**
+    - Abstract icons are actually easier to recognize
+- **Similar objects or functions should be assigned similar icons**
+- **Textual labels make it easier for beginners**
+
+
 
