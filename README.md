@@ -102,5 +102,48 @@ Don Norman reasons that irrespective of concept design, users will always have t
 
 ***
 
+### Constraints
+- **Phsysical constraint**
+    - Object can only be used in one way
+- **Cultural constraint**
+    - Usability is determined by culture
+- **Semantic constraint**
+    - Use is determined by situation
+- **Logical constraint**
+    - Use should be intuitive because of relationship between spatial location, functional use, and end result
 
+***
+
+### Affordance
+Refers to the ability of an object or a product to communicate its **function**
+- **Signifiers**
+    - An indicator that can be meaningfully interpreted in a way that increases affordance
+- **Feedback**
+    - An indicator to show what the reaction to a user action is
+
+***
+
+## Neilson's Heuristics and Guidelines
+1. **Visibility of system status**
+    - The user should always know where they are, what they are doing, and the result of any actions they take through appropriate feedback
+1. **Match between system and the real world**
+    - The system should speak the language of the user; it should be intuitive and easily understandable
+1. **User control and freedom**
+    - Users should be able to exit their current state easily and rapidly
+1. **Consistency and standards**
+    - Users spend most of their time on websites that aren't yours. Follow standard conventions or risk confusing your users and adding to their mental load
+1. **Error prevention**
+    - Prevent avoidable errors through user confirmation actions (pop-up dialogues) or through layout design
+1. **Recognition rather than recall**
+    - Show all objects and actions available to the user or risk adding to their mental load
+1. **Flexibility and efficiency of use**
+    - Beginner users should not be overwhelmed with the interface and master users should be able to tailor their interface to speed up common and repeated actions
+1. **Aesthetic and minimal design**
+    - More information = more mental load. Think Google.com
+1. **Help users recognize, diagnose, and recover from errors**
+    - Error messages should: state the problem, why it happened, and give users the option to quickly and easily recover
+1. **Help and documentation**
+    - Give the user all the resources they need to use the product as intended
+
+***
 
